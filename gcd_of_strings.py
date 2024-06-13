@@ -25,8 +25,6 @@ class Solution(object):
                 cd.append(i)
         print(cd)
         listofsub=[]
-        listofmain=[]
-        final=[]
 
         for x in cd:
             print(x)
